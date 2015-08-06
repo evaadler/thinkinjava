@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<emps>
+	<emp>
+		<id>1</id>
+		<name>小强</name>
+		<sex>男</sex>
+		<salary>1000</salary>
+		<deptId>1</deptId>
+	</emp>
+</emps>
